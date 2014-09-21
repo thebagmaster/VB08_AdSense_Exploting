@@ -1,0 +1,25 @@
+C:\Users\Dan\AppData\Local\Temporary Projects\crss\bin\Debug\crss.exe
+C:\Users\Dan\AppData\Local\Temporary Projects\crss\bin\Debug\crss.pdb
+C:\Users\Dan\AppData\Local\Temporary Projects\crss\bin\Debug\crss.xml
+C:\Users\Dan\AppData\Local\Temporary Projects\crss\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\AppData\Local\Temporary Projects\crss\obj\Debug\crss.Form1.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\crss\obj\Debug\crss.Resources.resources
+C:\Users\Dan\AppData\Local\Temporary Projects\crss\obj\Debug\crss.vbproj.GenerateResource.Cache
+C:\Users\Dan\AppData\Local\Temporary Projects\crss\obj\Debug\crss.exe
+C:\Users\Dan\AppData\Local\Temporary Projects\crss\obj\Debug\crss.xml
+C:\Users\Dan\AppData\Local\Temporary Projects\crss\obj\Debug\crss.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Debug\crss.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\bin\Debug\icrss.exe.manifest
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\bin\Debug\icrss.application
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\bin\Debug\icrss.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\bin\Debug\icrss.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\bin\Debug\icrss.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Debug\icrss.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Debug\icrss.TrustInfo.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Debug\icrss.exe.manifest
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Debug\icrss.application
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Debug\icrss.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Debug\icrss.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Debug\icrss.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Debug\icrss.icrss.resources

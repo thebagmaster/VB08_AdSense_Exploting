@@ -1,0 +1,15 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\bin\Release\icrss.exe.manifest
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\bin\Release\icrss.application
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\bin\Release\icrss.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\bin\Release\icrss.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\bin\Release\icrss.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Release\icrss.Form1.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Release\icrss.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Release\crss.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Release\icrss.TrustInfo.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Release\icrss.exe.manifest
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Release\icrss.application
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Release\icrss.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Release\icrss.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\crss\crss\obj\Release\icrss.pdb

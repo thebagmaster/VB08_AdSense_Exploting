@@ -1,0 +1,15 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\obj\Debug\Crss1.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\bin\Debug\Crss.exe.manifest
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\bin\Debug\Crss.application
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\bin\Debug\Crss.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\bin\Debug\Crss.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\bin\Debug\Crss.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\obj\Debug\CRSServer.crss.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\obj\Debug\CRSServer.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\obj\Debug\Crss.TrustInfo.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\obj\Debug\Crss.exe.manifest
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\obj\Debug\Crss.application
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\obj\Debug\Crss.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\obj\Debug\Crss.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Crss1\Crss1\obj\Debug\Crss.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\proxyR\proxyR\bin\Debug\proxyR.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\proxyR\proxyR\bin\Debug\proxyR.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\proxyR\proxyR\bin\Debug\proxyR.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\proxyR\proxyR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\proxyR\proxyR\obj\Debug\proxyR.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\proxyR\proxyR\obj\Debug\proxyR.ProxyR.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\proxyR\proxyR\obj\Debug\proxyR.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\proxyR\proxyR\obj\Debug\proxyR.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\proxyR\proxyR\obj\Debug\proxyR.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\proxyR\proxyR\obj\Debug\proxyR.pdb

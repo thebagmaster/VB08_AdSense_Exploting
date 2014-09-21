@@ -1,0 +1,14 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\bin\Debug\CrsClck.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\bin\Debug\CrsClck.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\bin\Debug\CrsClck.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\obj\Debug\CrsClck.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\obj\Debug\CrsClck.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\obj\Debug\CrsClck.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\obj\Debug\CrsClck.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\obj\Debug\CRSCLICK.crsclck.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\obj\Debug\CRSCLICK.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\bin\Debug\CrsClck.exe.manifest
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\bin\Debug\CrsClck.application
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\obj\Debug\CrsClck.exe.manifest
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\CrsClck\CrsClck\obj\Debug\CrsClck.application

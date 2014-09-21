@@ -1,0 +1,10 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Clckserver\Clckserver\bin\Debug\Clckserver.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Clckserver\Clckserver\bin\Debug\Clckserver.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Clckserver\Clckserver\bin\Debug\Clckserver.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Clckserver\Clckserver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Clckserver\Clckserver\obj\Debug\Clckserver.clckserver.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Clckserver\Clckserver\obj\Debug\Clckserver.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Clckserver\Clckserver\obj\Debug\Clckserver.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Clckserver\Clckserver\obj\Debug\Clckserver.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Clckserver\Clckserver\obj\Debug\Clckserver.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Clckserver\Clckserver\obj\Debug\Clckserver.pdb

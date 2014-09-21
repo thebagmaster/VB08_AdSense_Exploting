@@ -1,0 +1,10 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Spoof\Spoof\bin\Debug\Spoof.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Spoof\Spoof\bin\Debug\Spoof.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Spoof\Spoof\bin\Debug\Spoof.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Spoof\Spoof\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Spoof\Spoof\obj\Debug\Spoof.Spoof.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Spoof\Spoof\obj\Debug\Spoof.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Spoof\Spoof\obj\Debug\Spoof.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Spoof\Spoof\obj\Debug\Spoof.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Spoof\Spoof\obj\Debug\Spoof.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\Spoof\Spoof\obj\Debug\Spoof.pdb
